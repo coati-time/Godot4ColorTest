@@ -1,8 +1,8 @@
 [gd_scene load_steps=6 format=3 uid="uid://jygkr5cabwr"]
 
 [ext_resource type="Texture2D" uid="uid://cjnv1cxpn2rcj" path="res://GitHub colors - htmlcolors.com.png" id="1_yde1x"]
-[ext_resource type="Shader" uid="uid://d0achsecmy6f5" path="res://switchAlbedoRandB.tres" id="2_4552m"]
-[ext_resource type="Shader" uid="uid://i4m880qruoit" path="res://switchEmissionRandB.tres" id="3_naxn3"]
+[ext_resource type="Shader" uid="uid://cwsg2i62l7hxs" path="res://switchAlbedoRandB.tres" id="2_4552m"]
+[ext_resource type="Shader" uid="uid://cnnfdghuycg8j" path="res://switchEmissionRandB.tres" id="3_naxn3"]
 
 [sub_resource type="ShaderMaterial" id="ShaderMaterial_gjn4k"]
 render_priority = 0
